@@ -1147,6 +1147,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8239539225711001773, guid: b2cb27662db59774797fff582a443898,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8239539225711001774, guid: b2cb27662db59774797fff582a443898,
         type: 3}
       propertyPath: m_Name
@@ -2008,6 +2013,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
+    - target: {fileID: 8239539225711001773, guid: b2cb27662db59774797fff582a443898,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8239539225711001774, guid: b2cb27662db59774797fff582a443898,
         type: 3}
       propertyPath: m_Name
@@ -2285,6 +2295,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8239539225711001773, guid: b2cb27662db59774797fff582a443898,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8239539225711001774, guid: b2cb27662db59774797fff582a443898,
         type: 3}
@@ -4000,6 +4015,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8239539225711001773, guid: b2cb27662db59774797fff582a443898,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8239539225711001774, guid: b2cb27662db59774797fff582a443898,
         type: 3}
@@ -7475,6 +7495,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8239539225711001773, guid: b2cb27662db59774797fff582a443898,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8239539225711001774, guid: b2cb27662db59774797fff582a443898,
         type: 3}
