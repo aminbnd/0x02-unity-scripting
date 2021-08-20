@@ -2,12 +2,26 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class PlayerController : MonoBehaviour
 {
     public float speed = 1000f;
     public Rigidbody rb;
+    private int score = 0;
     
 
+    
+    void OnTriggerEnter(Collider other)
+    {
+        if(other.tag == "Pickup")
+        {
+            score++;
+            Debug.Log($"Score: {score}");
+            Destroy(other.gameObject);
+        }
+    }
+    
+    
     // Update is called once per frame
     void FixedUpdate()
     {
